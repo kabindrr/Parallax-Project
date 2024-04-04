@@ -117,17 +117,17 @@ nav ul li:hover {
   background-attachment: fixed;
 }
 .img2 {
-  background: url(./Assets/CameraCollection.jpg) no-repeat center;
+  background: url(./Assets/OfficeDesk.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
 .img3 {
-  background: url(./Assets/Macbookpro.jpg) no-repeat center;
+  background: url(./Assets/CameraCollection.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
 .img4 {
-  background: url(./Assets/CameraCollection.jpg) no-repeat center;
+  background: url(./Assets/LightBulb.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
